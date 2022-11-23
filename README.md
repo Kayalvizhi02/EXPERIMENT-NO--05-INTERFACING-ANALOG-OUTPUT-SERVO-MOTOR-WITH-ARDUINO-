@@ -38,16 +38,14 @@ An external controller (such as the Arduino) tells the servo where to go with a 
 
 
 ### Figure-03 SERVO MOTOR OVERVIEW 
-
- 
-![image](https://user-images.githubusercontent.com/75413726/203466600-3e4c187a-ce0e-461f-9779-54d7d66a6c89.png)
-
 CIRCUIT DIAGRAM
- 
  
  ![image](https://user-images.githubusercontent.com/36288975/163544618-6eb8a7b5-7f1a-428a-8d9f-fd899b145efb.png)
 
 ### FIGURE 04 CIRCUIT DIAGRAM
+
+![image](https://user-images.githubusercontent.com/75413726/203466600-3e4c187a-ce0e-461f-9779-54d7d66a6c89.png)
+
 
 ### PROCEDURE:
 1.	Connect the circuit as per the circuit diagram 
@@ -88,13 +86,7 @@ void loop()
 
 OUTPUT:
 
-![image](https://user-images.githubusercontent.com/75413726/203466740-e22fb77e-6749-4c9a-a0fd-142f32ace746.png)
-
-![image](https://user-images.githubusercontent.com/75413726/203466887-14aeef88-fb74-4c8e-a435-65d4dc73ab33.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/75413726/203467424-8ab7ae97-ab1c-4dd4-84cc-00a13c1dea51.png)
 
 ### RESULTS: 
 Arduino uno interfacing with servo motor is learned and angular position is controlled using PWM signal.
